@@ -1,2 +1,2 @@
 # ML-Algorithms-from-scratch
-Implementing Machine Learning Algorithms from scratch in python.
+Implementing Machine Learning algorithms from scratch in python.
